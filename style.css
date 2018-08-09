@@ -1,0 +1,12 @@
+body{
+    font-family: arial, Verdana, sans-serif;
+    background-color: whitesmoke;
+}
+#userName {
+    width: 60%;
+    margin: 15px 0;
+}
+
+.container {
+    width: 50%;
+}
